@@ -10,10 +10,10 @@
 <p>Should not be done by anyone that isn't admin</p>
 
 <p>
-git submodule update --remote  
-git status  
-git add *  
-git commit -m "updated SUBMODULE_NAME"  
-git push  
+git submodule update --remote<br>
+git status<br>
+git add *<br>
+git commit -m "updated SUBMODULE_NAME"<br> 
+git push<br>
 </p>
 
