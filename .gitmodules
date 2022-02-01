@@ -1,3 +1,24 @@
 [submodule "SW8E-MEB"]
 	path = SW8E-MEB
 	url = https://github.com/ncsurobotics/SW8E-MEB.git
+[submodule "SW8E-Auxiliary-Board"]
+	path = SW8E-Auxiliary-Board
+	url = https://github.com/ncsurobotics/SW8E-Auxiliary-Board.git
+[submodule "SW8E-Load-Balancing-Board"]
+	path = SW8E-Load-Balancing-Board
+	url = https://github.com/ncsurobotics/SW8E-Load-Balancing-Board.git
+[submodule "SW8E-Power-Distribution-Board"]
+	path = SW8E-Power-Distribution-Board
+	url = https://github.com/ncsurobotics/SW8E-Power-Distribution-Board.git
+[submodule "SW8E-Optoisolator-Board"]
+	path = SW8E-Optoisolator-Board
+	url = https://github.com/ncsurobotics/SW8E-Optoisolator-Board.git
+[submodule "SW8E-Microcontrollers"]
+	path = SW8E-Microcontrollers
+	url = https://github.com/ncsurobotics/SW8E-Microcontrollers.git
+[submodule "SW8E-eZ-FET_Lite"]
+	path = SW8E-eZ-FET_Lite
+	url = https://github.com/ncsurobotics/SW8E-eZ-FET_Lite.git
+[submodule "SW8E-new_member_Altium_project"]
+	path = SW8E-new_member_Altium_project
+	url = https://github.com/ncsurobotics/SW8E-new_member_Altium_project.git
