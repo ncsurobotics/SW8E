@@ -1,0 +1,3 @@
+[submodule "SW8E-MEB"]
+	path = SW8E-MEB
+	url = https://github.com/ncsurobotics/SW8E-MEB.git
